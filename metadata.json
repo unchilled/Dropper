@@ -1,0 +1,10 @@
+{
+    "name": "Dropper",
+    "creator": "unchilled",
+    "description": "Track your time and player stats on Hypixel Dropper",
+    "entry": "index.js",
+    "requires": [
+      "Vigilance"
+    ],
+    "version": "1.0.1"
+  }
